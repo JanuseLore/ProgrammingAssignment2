@@ -3,7 +3,7 @@
 ## The first function is named as 'makeCacheMatrix', wherein it gets 
 ## a matrix and then it will set value of the matrix. After that, it will
 ## get the value of the matrix and then it will set the inverse matrix,
-## and finally will get the inverse matrix. 
+## and finally will get the inverse matrix.  
 
 
 makeCacheMatrix <- function(x = matrix()) {           ##taking matrix as an input
